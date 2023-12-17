@@ -3,4 +3,4 @@ second time commit
 third time commit
 first_bug fixed 
 add_function 100%
-
+add_fun1 20%
